@@ -31,7 +31,7 @@ Lab de sécurité mobile centré sur le **bypass de détection de root Android**
 |-----------|-----------------|
 | Frida (PC) | `17.9.1` |
 | Frida (Python) | `17.9.1` |
-| ADB | `1.0.41 (37.0.0-14910828)` |
+| ADB | `1.0.41` |
 | OS | Windows |
 | Appareil | Android Emulator x86_64 (emulator-5554) |
 | App cible | `owasp.mstg.uncrackable2` |
