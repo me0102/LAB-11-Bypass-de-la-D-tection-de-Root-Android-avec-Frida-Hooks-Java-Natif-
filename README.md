@@ -46,7 +46,7 @@ Lab de sécurité mobile centré sur le **bypass de détection de root Android**
 
 ---
 
-## ✅ Exercice 1 — Installation et preuve 
+## ✅ Etape 1 — Installation et preuve 
 
 ### Vérification des versions
 
@@ -82,7 +82,7 @@ x86_64
 
 ---
 
-## 🚀 Exercice 2 — Déploiement et visibilité 
+## 🚀 Etape 2 — Déploiement et visibilité 
 
 ### 2.1 — Push et lancement de frida-server
 
@@ -140,7 +140,7 @@ frida-ps -Uai
 
 ---
 
-## 🪝 Exercice 3 — Bypass Java 
+## 🪝 Etape 3 — Bypass Java 
 
 ### 3.1 — Vecteurs de détection Java ciblés
 
