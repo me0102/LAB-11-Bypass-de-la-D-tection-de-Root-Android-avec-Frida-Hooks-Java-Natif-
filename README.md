@@ -47,7 +47,7 @@ Lab de sécurité mobile centré sur le **bypass de détection de root Android**
 
 ---
 
-## ✅ Exercice 1 — Installation et preuve (20 pts)
+## ✅ Exercice 1 — Installation et preuve 
 
 ### Vérification des versions
 
@@ -83,7 +83,7 @@ x86_64
 
 ---
 
-## 🚀 Exercice 2 — Déploiement et visibilité (30 pts)
+## 🚀 Exercice 2 — Déploiement et visibilité 
 
 ### 2.1 — Push et lancement de frida-server
 
@@ -141,7 +141,7 @@ frida-ps -Uai
 
 ---
 
-## 🪝 Exercice 3 — Bypass Java (30 pts)
+## 🪝 Exercice 3 — Bypass Java 
 
 ### 3.1 — Vecteurs de détection Java ciblés
 
@@ -257,7 +257,7 @@ frida -U -f owasp.mstg.uncrackable2 -l C:\Users\BOUCHRA\bypass_root.js -l C:\Use
 
 ---
 
-## 🔧 Exercice 4 — Natif / Trace (20 pts)
+## 🔧 Exercice 4 — Natif / Trace 
 
 ### 4.1 — Tentative frida-trace
 
@@ -358,18 +358,6 @@ Java.perform(function() {
 ```
 
 > ✅ Variables d'environnement Frida masquées avec succès.
-
----
-
-## 📊 Résultats de validation
-
-| Exercice | Objectif | Points | Statut |
-|----------|----------|--------|--------|
-| 1 — Installation | frida + python + adb vérifiés | 20/20 | ✅ |
-| 2 — Déploiement | frida-server + 7+ apps listées | 30/30 | ✅ |
-| 3 — Bypass Java | App ouverte, 6 chemins bloqués | 30/30 | ✅ |
-| 4 — Natif/Trace | exit() natif bloqué, 2+ appels | 20/20 | ✅ |
-| **Total** | | **100/100** | 🏆 |
 
 ---
 
