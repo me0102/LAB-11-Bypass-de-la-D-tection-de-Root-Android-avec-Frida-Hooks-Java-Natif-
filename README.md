@@ -7,11 +7,10 @@
 
 - [Présentation](#-présentation)
 - [Prérequis](#-prérequis)
-- [Exercice 1 — Installation et preuve](#-exercice-1--installation-et-preuve-20-pts)
-- [Exercice 2 — Déploiement frida-server](#-exercice-2--déploiement-et-visibilité-30-pts)
-- [Exercice 3 — Bypass Java](#-exercice-3--bypass-java-30-pts)
-- [Exercice 4 — Bypass Natif / Trace](#-exercice-4--natif--trace-20-pts)
-- [Résultats de validation](#-résultats-de-validation)
+- [Etape 1 — Installation et preuve](#-exercice-1--installation-et-preuve-20-pts)
+- [Etape 2 — Déploiement frida-server](#-exercice-2--déploiement-et-visibilité-30-pts)
+- [Etape 3 — Bypass Java](#-exercice-3--bypass-java-30-pts)
+- [Etape 4 — Bypass Natif / Trace](#-exercice-4--natif--trace-20-pts)
 - [Scripts](#-scripts)
 
 ---
