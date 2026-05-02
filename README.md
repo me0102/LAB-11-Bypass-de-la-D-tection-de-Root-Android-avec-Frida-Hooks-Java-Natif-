@@ -42,7 +42,7 @@ Lab de sécurité mobile centré sur le **bypass de détection de root Android**
 
 - Frida installé côté PC et `frida-server` opérationnel côté Android (versions alignées)
 - Android Platform Tools (`adb`) installés et dans le PATH
-- Émulateur Android (8.0+) avec Options développeur et Débogage USB activés
+- Émulateur Android avec Options développeur et Débogage USB activés
 - Un APK avec root detection (ex: OWASP UnCrackable Level 2)
 
 ---
