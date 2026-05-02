@@ -1,8 +1,5 @@
 # LAB-11-Bypass-de-la-D-tection-de-Root-Android-avec-Frida-Hooks-Java-Natif-
 
-# 🔬 Frida Android Root Bypass Lab
-
-> **Avertissement éthique** : Ces techniques sont à usage pédagogique uniquement. N'utilisez-les que sur des applications/appareils pour lesquels vous avez une autorisation explicite.
 
 ---
 
